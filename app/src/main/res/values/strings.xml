@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OlaMundo</string>
+    <string name="btn_mensagem">clique - mensagem</string>
+    <string name="dialog_title">Olá - SHIFT</string>
+    <string name="dialog_message">"Primeiro APP Android"</string>
+    <string name="btn_OK">"Certo!"</string>
+</resources>

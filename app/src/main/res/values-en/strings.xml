@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dialog_title">HELLO - SHIFT</string>
+    <string name="app_name">HelloWorld</string>
+    <string name="btn_mensagem">Clique me - Message</string>
+    <string name="dialog_message">"First APP Android"</string>
+    <string name="btn_OK">"OK!"</string>
+</resources>
